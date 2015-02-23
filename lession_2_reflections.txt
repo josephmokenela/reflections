@@ -1,0 +1,4 @@
+What happens when you initialse a repository. Why do you need to do it?
+
+A git repository has to be initialized to enable git to prepare it for use. using the commands etc and the whole environment 
+of the repository.
