@@ -5,3 +5,9 @@ I would like to use the remote repository when I am working with a team of peopl
 Why might you want to always pull changes manually rather than having Git stay up-to-date with your remote repository?
 
 Git allowa me to synch with the remote repository becasue in that case I would have a flexibity to only push changes wich are ready to be viewed by the public. This leaves control in my hands instead of Git automatically doing it.
+
+Describe the differences between forks, clones and branches. When would you use on instead of another?
+
+Clone - This pulls the copy of the entire repository to your local machine
+Branch - This creates a new branch
+Fork - This works like clone, execpt that the clone happens on github instead of on the local machine.
